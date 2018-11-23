@@ -37,5 +37,3 @@
 - 运行
 
         gulp
-
-- @autor xiong
